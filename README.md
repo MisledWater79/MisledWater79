@@ -1,26 +1,32 @@
 <!-- Introduction -->
-### Hi there 👋
+<div align="center">
+  <h2> Hi there, I'm Misled! </h2>
+  </a
+  <br />
+</div>
 
+<div>  
+  <a href="https://github.com/MisledWater79">
+    <img src="https://komarev.com/ghpvc/?username=MisledWater79&label=Visitors" alt="profile views" />
+  </a>
+</div>
 
-**Misledwater79/MisledWater79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me!</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Working on 
+- 🌱 Learning 
+- 👯 Collaborating on
+- 💬 Ask me about anything!
+- 📫 How to reach me: 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Totally didn't take most of the code for this from <a href="https://github.com/notbeer">notbeer</a>
 
 <!-- Stats -->
 <details open="open">
   <summary><b>Stats</b></summary>
   <br />  
   <div align="center">
-    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=darcula" />
+    <img height="140px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=darcula" />
     <br />
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisledWater79&theme=darcula" />
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisledWater79&theme=darcula" />
