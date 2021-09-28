@@ -13,17 +13,17 @@
 
 <h2>About Me!</h2>
 
-- 🔭 Working on 
-- 🌱 Learning 
-- 👯 Collaborating on
+- 🔭 Working on my <a href="https://github.com/Misledwater79/Nukkit-Last-Life-Plugin">Last Life Nukkit Plugin</a>
+- 🌱 Learning <a href="https://www.java.com/en/">Java</a>
+- 👯 Collaborating on <a href="https://www.5framestudios.com">5 Frame Studios's </a> survival server
 - 💬 Ask me about anything!
-- 📫 How to reach me: 
+- 📫 How to reach me: [insert non-existent discord here]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Totally didn't take most of the code for this from <a href="https://github.com/notbeer">notbeer</a>
 
 <!-- Stats -->
 <details open="open">
-  <summary><b>Stats</b></summary>
+  <summary><b>My Stats</b></summary>
   <br />  
   <div align="center">
     <img height="140px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=darcula" />
