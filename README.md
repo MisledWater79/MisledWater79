@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- Profile -->
-<br />
+<!-- Stats -->
 <details open="open">
-  <summary><b>☄️ Profile</b></summary>
+  <summary><b>Stats</b></summary>
   <br />  
   <div align="center">
-    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=graywhite&dates=DDDDDD&background=000000&border=DDDDDD&stroke=DDDDDD&ring=DDDDDD&fire=24C2C6&currStreakNum=24C2C6&sideNums=24C2C6&currStreakLabel=DDDDDD&sideLabels=DDDDDD" />
-    <br /><br />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisledWater79&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisledWater79&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
-    <br /><br />
-    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=MisledWater79&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=darcula" />
+    <br />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisledWater79&theme=darcula" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisledWater79&theme=darcula" />
+    <br />
+    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=MisledWater79&bg_color=242424&color=e4e2e2&line=BA5F17&point=84628F&hide_border=false" />
   </div>
 </details>
