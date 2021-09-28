@@ -1,16 +1,19 @@
 <!-- Introduction -->
 <div align="center">
-  <h2> Hi there, I'm Misled! </h2>
+  <h2> Hi there, I'm Misled! <img src="https://i.pinimg.com/originals/c5/ef/b8/c5efb82dcccc7f06ae379bdc9fdf00e3.gif" height="35px"></h2>
   </a
   <br />
 </div>
 
+  <!-- Profile Views -->
 <div>  
   <a href="https://github.com/MisledWater79">
     <img src="https://komarev.com/ghpvc/?username=MisledWater79&label=Visitors" alt="profile views" />
   </a>
 </div>
 
+
+<!--About Me-->
 <h2>About Me!</h2>
 
 - 🔭 Working on my <a href="https://github.com/Misledwater79/Nukkit-Last-Life-Plugin">Last Life Nukkit Plugin</a>
