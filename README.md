@@ -27,24 +27,24 @@ $$\   $$ |      $$ |   $$ |     $$  __$$ |$$ | $$ | $$ |$$   ____|      $$\   $$
 <!--About Me-->
 <h2>About Me!</h2>
 
-- 🔭 Working on <a href="https://github.com/Misledwater79/PizzaServer.git">Pizza Server</a>
-- 🌱 Learning <a href="https://www.java.com/en/">Java</a>
-- 👯 Collaborating on <a href="https://www.5framestudios.com">5 Frame Studios's </a> survival server
+- 🔭 Working on [5 Frame Studios](https://github.com/5-Frame)
+- 🌱 Learning [C++](https://cplusplus.com/)
+- 👯 Collaborating on [5 Frame Studios's](https://www.5framestudios.com) survival server
 - 💬 Ask me about anything!
 - 📫 How to reach me: [insert non-existent discord here]
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Totally didn't take most of the code for this from <a href="https://github.com/notbeer">notbeer</a>
+- ⚡ Fun fact: Totally didn't take most of the code for this from [notbeer](https://github.com/notbeer)
 
 <!-- Stats -->
 <details open="open">
   <summary><b>My Stats</b></summary>
   <br />  
   <div align="center">
-    <img height="140px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=darcula" />
+    <img height="140px" src="http://github-readme-streak-stats.herokuapp.com?user=MisledWater79&theme=prussian&border_radius=60&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=38a0fe" />
     <br />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisledWater79&theme=darcula" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisledWater79&theme=darcula" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisledWater79&theme=prussian&border_radius=60&title_color=38a0fe" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisledWater79&theme=prussian&border_radius=60&title_color=38a0fe" />
     <br />
-    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=MisledWater79&bg_color=242424&color=e4e2e2&line=BA5F17&point=84628F&hide_border=false" />
+    <img width="95%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MisledWater79&bg_color=172f45&color=38a0fe&line=bcdefe&point=678aab" />
   </div>
 </details>
