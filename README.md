@@ -27,11 +27,10 @@ $$\   $$ |      $$ |   $$ |     $$  __$$ |$$ | $$ | $$ |$$   ____|      $$\   $$
 <!--About Me-->
 <h2>About Me!</h2>
 
-- 🔭 Working on [5 Frame Studios](https://github.com/5-Frame)
+- 🔭 Working on [Server Software]()?
 - 🌱 Learning [C++](https://cplusplus.com/)
-- 👯 Collaborating on [5 Frame Studios's](https://www.5framestudios.com) survival server
 - 💬 Ask me about anything!
-- 📫 How to reach me: [insert non-existent discord here]
+- 📫 How to reach me: [insert non-existent discord here] or misledwater79
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Totally didn't take most of the code for this from [notbeer](https://github.com/notbeer)
 
