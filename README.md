@@ -26,7 +26,7 @@ $$$$$$$$\\$$$$$$$ |  \$  /   $$ |$$$$$$$  |$$ |  $$ |$$ | \_/ $$ |\$$$$$$  |
 <!--About Me-->
 <h2>About Me!</h2>
 
-- 🔭 Working on [LavishMC](https://github.com/LavishMC)!
+- 🔭 Working on [OpenGLMC](https://github.com/minecraft) to help learn for my other big project [LavishMC](https://github.com/LavishMC)!
 - 🌱 Learning [C++](https://cplusplus.com/)
 - 💬 Ask me about anything!
 - 📫 How to reach me: [insert non-existent discord here] or misledwater79
