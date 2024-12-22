@@ -11,6 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=MisledWater79&label=Visitors" alt="profile views" />
   </a>
 </div>
+<sub>These are mostly me😅</sub>
 
 ```
 $$\                          $$\           $$\       $$\      $$\  $$$$$$\  
