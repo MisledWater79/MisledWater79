@@ -27,8 +27,8 @@ $$$$$$$$\\$$$$$$$ |  \$  /   $$ |$$$$$$$  |$$ |  $$ |$$ | \_/ $$ |\$$$$$$  |
 <!--About Me-->
 <h2>About Me!</h2>
 
-- 🔭 Working on [OpenGLMC](https://github.com/MisledWater79/minecraft) to help learn for my other big project [LavishMC](https://github.com/LavishMC)!
-- 🌱 Learning [C++](https://cplusplus.com/)
+- 🔭 Working on [LavishRakNet](https://github.com/LavishMC/LavishRakNet) to help learn for my other big project [LavishMC](https://github.com/LavishMC)!
+- 🌱 Learning a lot!
 - 💬 Ask me about anything!
 - 📫 How to reach me: [insert non-existent discord here] or misledwater79
 - 😄 Pronouns: he/him
